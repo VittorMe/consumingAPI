@@ -1,3 +1,7 @@
+# Note
+
+Consuming the project's API: [API](https://github.com/VittorMe/ApiCatalagoJWT)
+
 # Categoria
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
